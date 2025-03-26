@@ -33,9 +33,10 @@ This project was developed using the following technologies:
 
 ## 🔥 Features
 
-- [x] Responsive layout using CSS Grid
-- [x] Modern and accessible design
-- [x] Semantic and optimized code
+✅ **Responsive Layout** – *Adaptive form design using CSS Flexbox and Grid* <br>
+📝 **User-Friendly Form** – *Intuitive and structured input fields for a smooth enrollment process* <br>
+🎨 **Modern and Accessible Design** – *Clean and inclusive interface following accessibility best practices* <br>
+⚡ **Optimized Code** – *Semantic and well-structured code for better performance* <br>
 
 ## 📸 Demo
 
